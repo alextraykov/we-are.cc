@@ -61,7 +61,6 @@ nav .menu-item {
     font-size: 1.25rem;
     text-decoration: none;
     color: black;
-    
 }
 
 .logo:hover {
@@ -95,8 +94,8 @@ footer {
 
 .microcopy {
     font-size: .875rem;
-    color: white;
-    display: block;
+    font-style: italic;
+    padding-bottom: 1rem;
 }
 
 .footerStyling a {
@@ -377,6 +376,30 @@ body {
     padding-right: .5rem;
 }
 
+.lobster1 {
+    color: #FE4775;
+    font-weight: 600;
+    padding-right: .5rem;
+}
+
+.lobster2 {
+    color: #2848CD;
+    font-weight: 600;
+    padding-right: .5rem;
+}
+
+.lobster3 {
+    color: #28CD96;
+    font-weight: 600;
+    padding-right: .5rem;
+}
+
+.mihaela {
+    color: #FFB800;
+    font-weight: 600;
+    padding-right: .5rem;
+}
+
 .mihaela {
     color: #FFB800;
     font-weight: 600;
@@ -429,6 +452,14 @@ body {
 .dribbble {
     display: block;
     color: #ea4c89;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding-bottom: 1rem;
+}
+
+.vimeo {
+    display: block;
+    color: #4EBBFF;
     font-size: 1.2rem;
     font-weight: 600;
     padding-bottom: 1rem;
@@ -705,8 +736,6 @@ footer {
     nav .menu-item {
         padding: 0;
     }
-
-    
     footer {
         padding-top: 1rem;
         flex-direction: column;
