@@ -95,7 +95,7 @@ footer {
 .microcopy {
     font-size: .875rem;
     font-style: italic;
-    padding-bottom: 1rem;
+    color: white;
 }
 
 .footerStyling a {
@@ -368,6 +368,14 @@ body {
     font-style: italic;
     padding-bottom: 1.5rem;
     text-align: center;
+}
+
+.blogMicrocopy-dark {
+    font-size: 0.875rem;
+    font-style: italic;
+    padding-bottom: 1.5rem;
+    text-align: center;
+    color: #333333;
 }
 
 .borislava {
