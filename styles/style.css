@@ -465,6 +465,22 @@ body {
     padding-bottom: 1rem;
 }
 
+.behance {
+    display: block;
+    color: #1769ff;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding-bottom: 1rem;
+}
+
+.instagram {
+    display: block;
+    color: #d6249f;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding-bottom: 1rem;
+}
+
 .vimeo {
     display: block;
     color: #4EBBFF;
@@ -635,6 +651,22 @@ video {
 
 .post:nth-child(8) {
     animation: animateUp .7s calc(8 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(9) {
+    animation: animateUp .7s calc(9 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(10) {
+    animation: animateUp .7s calc(10 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(11) {
+    animation: animateUp .7s calc(11 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(12) {
+    animation: animateUp .7s calc(12 * .2s + .3s) ease forwards;
 }
 
 .bodyBlog {
