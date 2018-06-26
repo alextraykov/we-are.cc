@@ -218,6 +218,16 @@ body {
     flex: 1;
 }
 
+.two-pics {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row {
+    width: 50%;
+    height: 50%;
+}
+
 .main-post {
     width: 100%;
     height: 398px;
