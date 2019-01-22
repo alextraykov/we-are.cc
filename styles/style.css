@@ -679,6 +679,58 @@ video {
     animation: animateUp .7s calc(12 * .2s + .3s) ease forwards;
 }
 
+.post:nth-child(13) {
+    animation: animateUp .7s calc(13 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(14) {
+    animation: animateUp .7s calc(14 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(15) {
+    animation: animateUp .7s calc(15 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(16) {
+    animation: animateUp .7s calc(16 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(17) {
+    animation: animateUp .7s calc(17 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(18) {
+    animation: animateUp .7s calc(18 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(19) {
+    animation: animateUp .7s calc(19 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(20) {
+    animation: animateUp .7s calc(20 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(21) {
+    animation: animateUp .7s calc(21 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(22) {
+    animation: animateUp .7s calc(22 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(23) {
+    animation: animateUp .7s calc(23 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(24) {
+    animation: animateUp .7s calc(24 * .2s + .3s) ease forwards;
+}
+
+.post:nth-child(25) {
+    animation: animateUp .7s calc(25 * .2s + .3s) ease forwards;
+}
+
 .bodyBlog {
     transform: translateY(15vh) scale(0.90);
     opacity: 0;
